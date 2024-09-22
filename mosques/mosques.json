@@ -114,7 +114,7 @@
       "UseDefinedJumua": false,
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
-      "UseTimetableZohrIqamaJumua": false,
+      "UseTimetableZohrIqamaJumua": true,
       "JumaaWinterTime1": "12:00",
       "JumaaWinterTime2": "13:00",
       "JumaaSummerTime1": "13:00",
