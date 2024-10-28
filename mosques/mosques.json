@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-10-28T08:49:00.000Z",
+  "timestamp": "2024-10-28T11:50:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -2535,7 +2535,7 @@
       "ImageUrl": "prayertimesfilled.png",
       "AlternateImageUrl": "prayertimesfilled.png",
       "DataLocation": "hafs_academy",
-      "SecondJumua": true,
+      "SecondJumua": false,
       "UseDefinedJumua": false,
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
