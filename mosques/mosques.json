@@ -1,5 +1,5 @@
 {
-  "timestamp": "2024-11-03T12:57:00.000Z",
+  "timestamp": "2024-11-05T20:20:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -2035,14 +2035,14 @@
       "UseDefinedJumua": true,
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
-      "UseTimetableZohrIqamaJumua": false,
-      "JumaaWinterTime1": "12:15",
+      "UseTimetableZohrIqamaJumua": true,
+      "JumaaWinterTime1": "12:30",
       "JumaaWinterTime2": "13:30",
-      "JumaaSummerTime1": "13:15",
+      "JumaaSummerTime1": "13:30",
       "JumaaSummerTime2": "14:30",
-      "DefaultWinterTime1": "12:15",
+      "DefaultWinterTime1": "12:30",
       "DefaultWinterTime2": "13:30",
-      "DefaultSummerTime1": "13:15",
+      "DefaultSummerTime1": "13:30",
       "DefaultSummerTime2": "14:30",
       "Hanafi": false,
       "IsFajrAllowed": true,
