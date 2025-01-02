@@ -1,6 +1,6 @@
 {
   "city": "london",
-  "timestamp": "2025-01-02T13:02:13.581Z",
+  "timestamp": "2025-01-02T18:34:35.295Z",
   "times": {
     "2025-01-01": {
       "date": "2025-01-01",
@@ -11,11 +11,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:47",
       "asr_2": "14:17",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:06",
       "magrib_jamat": "16:13",
       "isha": "17:43",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-02": {
       "date": "2025-01-02",
@@ -26,11 +26,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:48",
       "asr_2": "14:18",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:07",
       "magrib_jamat": "16:14",
       "isha": "17:44",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-03": {
       "date": "2025-01-03",
@@ -41,11 +41,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:49",
       "asr_2": "14:19",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:08",
       "magrib_jamat": "16:15",
       "isha": "17:45",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-04": {
       "date": "2025-01-04",
@@ -56,11 +56,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:50",
       "asr_2": "14:20",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:09",
       "magrib_jamat": "16:16",
       "isha": "17:46",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-05": {
       "date": "2025-01-05",
@@ -71,11 +71,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:51",
       "asr_2": "14:21",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:10",
       "magrib_jamat": "16:17",
       "isha": "17:47",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-06": {
       "date": "2025-01-06",
@@ -86,11 +86,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:52",
       "asr_2": "14:23",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:12",
       "magrib_jamat": "16:19",
       "isha": "17:49",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-07": {
       "date": "2025-01-07",
@@ -101,11 +101,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:53",
       "asr_2": "14:24",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:13",
       "magrib_jamat": "16:20",
       "isha": "17:50",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-08": {
       "date": "2025-01-08",
@@ -116,11 +116,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:54",
       "asr_2": "14:25",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:14",
       "magrib_jamat": "16:21",
       "isha": "17:51",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-09": {
       "date": "2025-01-09",
@@ -131,11 +131,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:55",
       "asr_2": "14:26",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:16",
       "magrib_jamat": "16:23",
       "isha": "17:53",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-10": {
       "date": "2025-01-10",
@@ -146,11 +146,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:56",
       "asr_2": "14:28",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:17",
       "magrib_jamat": "16:24",
       "isha": "17:54",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-11": {
       "date": "2025-01-11",
@@ -161,11 +161,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:57",
       "asr_2": "14:29",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:18",
       "magrib_jamat": "16:25",
       "isha": "17:55",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-12": {
       "date": "2025-01-12",
@@ -176,11 +176,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "13:59",
       "asr_2": "14:30",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:20",
       "magrib_jamat": "16:27",
       "isha": "17:57",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-13": {
       "date": "2025-01-13",
@@ -191,11 +191,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:00",
       "asr_2": "14:32",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:21",
       "magrib_jamat": "16:28",
       "isha": "17:58",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-14": {
       "date": "2025-01-14",
@@ -206,11 +206,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:01",
       "asr_2": "14:33",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:23",
       "magrib_jamat": "16:30",
       "isha": "18:00",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-15": {
       "date": "2025-01-15",
@@ -221,11 +221,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:02",
       "asr_2": "14:35",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:24",
       "magrib_jamat": "16:31",
       "isha": "18:01",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-16": {
       "date": "2025-01-16",
@@ -236,11 +236,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:04",
       "asr_2": "14:36",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:26",
       "magrib_jamat": "16:33",
       "isha": "18:03",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-17": {
       "date": "2025-01-17",
@@ -251,11 +251,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:05",
       "asr_2": "14:38",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:28",
       "magrib_jamat": "16:35",
       "isha": "18:05",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-18": {
       "date": "2025-01-18",
@@ -266,11 +266,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:06",
       "asr_2": "14:39",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:29",
       "magrib_jamat": "16:36",
       "isha": "18:06",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-19": {
       "date": "2025-01-19",
@@ -281,11 +281,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:08",
       "asr_2": "14:41",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:15",
       "magrib": "16:31",
       "magrib_jamat": "16:38",
       "isha": "18:08",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:15"
     },
     "2025-01-20": {
       "date": "2025-01-20",
@@ -296,11 +296,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:09",
       "asr_2": "14:43",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:32",
       "magrib_jamat": "16:39",
       "isha": "18:09",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-21": {
       "date": "2025-01-21",
@@ -311,11 +311,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:10",
       "asr_2": "14:44",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:34",
       "magrib_jamat": "16:41",
       "isha": "18:11",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-22": {
       "date": "2025-01-22",
@@ -326,11 +326,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:12",
       "asr_2": "14:46",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:36",
       "magrib_jamat": "16:43",
       "isha": "18:13",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-23": {
       "date": "2025-01-23",
@@ -341,11 +341,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:13",
       "asr_2": "14:47",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:38",
       "magrib_jamat": "16:45",
       "isha": "18:15",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-24": {
       "date": "2025-01-24",
@@ -356,11 +356,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:15",
       "asr_2": "14:49",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:39",
       "magrib_jamat": "16:46",
       "isha": "18:16",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-25": {
       "date": "2025-01-25",
@@ -371,11 +371,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:16",
       "asr_2": "14:51",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:41",
       "magrib_jamat": "16:48",
       "isha": "18:18",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-26": {
       "date": "2025-01-26",
@@ -386,11 +386,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:17",
       "asr_2": "14:52",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:30",
       "magrib": "16:43",
       "magrib_jamat": "16:50",
       "isha": "18:20",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:30"
     },
     "2025-01-27": {
       "date": "2025-01-27",
@@ -401,11 +401,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:19",
       "asr_2": "14:54",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:45",
       "magrib": "16:45",
       "magrib_jamat": "16:52",
       "isha": "18:22",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:45"
     },
     "2025-01-28": {
       "date": "2025-01-28",
@@ -416,11 +416,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:20",
       "asr_2": "14:56",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:45",
       "magrib": "16:46",
       "magrib_jamat": "16:53",
       "isha": "18:23",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:45"
     },
     "2025-01-29": {
       "date": "2025-01-29",
@@ -431,11 +431,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:22",
       "asr_2": "14:57",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:45",
       "magrib": "16:48",
       "magrib_jamat": "16:55",
       "isha": "18:25",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:45"
     },
     "2025-01-30": {
       "date": "2025-01-30",
@@ -446,11 +446,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:23",
       "asr_2": "14:59",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:45",
       "magrib": "16:50",
       "magrib_jamat": "16:57",
       "isha": "18:27",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:45"
     },
     "2025-01-31": {
       "date": "2025-01-31",
@@ -461,11 +461,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:25",
       "asr_2": "15:01",
-      "asr_jamat": "14:00",
+      "asr_jamat": "14:45",
       "magrib": "16:52",
       "magrib_jamat": "16:59",
       "isha": "18:29",
-      "isha_jamat": "18:00"
+      "isha_jamat": "18:45"
     },
     "2025-02-01": {
       "date": "2025-02-01",
@@ -476,11 +476,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:26",
       "asr_2": "15:03",
-      "asr_jamat": "14:36",
+      "asr_jamat": "14:45",
       "magrib": "16:54",
       "magrib_jamat": "17:01",
       "isha": "18:30",
-      "isha_jamat": "18:40"
+      "isha_jamat": "18:45"
     },
     "2025-02-02": {
       "date": "2025-02-02",
@@ -491,11 +491,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:28",
       "asr_2": "15:04",
-      "asr_jamat": "14:38",
+      "asr_jamat": "14:45",
       "magrib": "16:55",
       "magrib_jamat": "17:02",
       "isha": "18:30",
-      "isha_jamat": "18:40"
+      "isha_jamat": "18:45"
     },
     "2025-02-03": {
       "date": "2025-02-03",
@@ -506,11 +506,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:29",
       "asr_2": "15:06",
-      "asr_jamat": "14:39",
+      "asr_jamat": "15:00",
       "magrib": "16:57",
       "magrib_jamat": "17:04",
       "isha": "18:31",
-      "isha_jamat": "18:41"
+      "isha_jamat": "19:00"
     },
     "2025-02-04": {
       "date": "2025-02-04",
@@ -521,11 +521,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:31",
       "asr_2": "15:08",
-      "asr_jamat": "14:41",
+      "asr_jamat": "15:00",
       "magrib": "16:59",
       "magrib_jamat": "17:06",
       "isha": "18:33",
-      "isha_jamat": "18:43"
+      "isha_jamat": "19:00"
     },
     "2025-02-05": {
       "date": "2025-02-05",
@@ -536,11 +536,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:32",
       "asr_2": "15:09",
-      "asr_jamat": "14:42",
+      "asr_jamat": "15:00",
       "magrib": "17:01",
       "magrib_jamat": "17:08",
       "isha": "18:34",
-      "isha_jamat": "18:44"
+      "isha_jamat": "19:00"
     },
     "2025-02-06": {
       "date": "2025-02-06",
@@ -551,11 +551,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:33",
       "asr_2": "15:11",
-      "asr_jamat": "14:43",
+      "asr_jamat": "15:00",
       "magrib": "17:03",
       "magrib_jamat": "17:10",
       "isha": "18:36",
-      "isha_jamat": "18:46"
+      "isha_jamat": "19:00"
     },
     "2025-02-07": {
       "date": "2025-02-07",
@@ -566,11 +566,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:35",
       "asr_2": "15:13",
-      "asr_jamat": "14:45",
+      "asr_jamat": "15:00",
       "magrib": "17:04",
       "magrib_jamat": "17:11",
       "isha": "18:36",
-      "isha_jamat": "18:46"
+      "isha_jamat": "19:00"
     },
     "2025-02-08": {
       "date": "2025-02-08",
@@ -581,11 +581,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:36",
       "asr_2": "15:15",
-      "asr_jamat": "14:46",
+      "asr_jamat": "15:00",
       "magrib": "17:06",
       "magrib_jamat": "17:13",
       "isha": "18:38",
-      "isha_jamat": "18:48"
+      "isha_jamat": "19:00"
     },
     "2025-02-09": {
       "date": "2025-02-09",
@@ -596,11 +596,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:38",
       "asr_2": "15:16",
-      "asr_jamat": "14:48",
+      "asr_jamat": "15:00",
       "magrib": "17:08",
       "magrib_jamat": "17:15",
       "isha": "18:39",
-      "isha_jamat": "18:49"
+      "isha_jamat": "19:00"
     },
     "2025-02-10": {
       "date": "2025-02-10",
@@ -611,11 +611,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:39",
       "asr_2": "15:18",
-      "asr_jamat": "14:49",
+      "asr_jamat": "15:00",
       "magrib": "17:10",
       "magrib_jamat": "17:17",
       "isha": "18:41",
-      "isha_jamat": "18:51"
+      "isha_jamat": "19:00"
     },
     "2025-02-11": {
       "date": "2025-02-11",
@@ -626,11 +626,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:41",
       "asr_2": "15:20",
-      "asr_jamat": "14:51",
+      "asr_jamat": "15:00",
       "magrib": "17:12",
       "magrib_jamat": "17:19",
       "isha": "18:43",
-      "isha_jamat": "18:53"
+      "isha_jamat": "19:00"
     },
     "2025-02-12": {
       "date": "2025-02-12",
@@ -641,11 +641,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:42",
       "asr_2": "15:21",
-      "asr_jamat": "14:52",
+      "asr_jamat": "15:00",
       "magrib": "17:14",
       "magrib_jamat": "17:21",
       "isha": "18:45",
-      "isha_jamat": "18:55"
+      "isha_jamat": "19:00"
     },
     "2025-02-13": {
       "date": "2025-02-13",
@@ -656,11 +656,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:43",
       "asr_2": "15:23",
-      "asr_jamat": "14:53",
+      "asr_jamat": "15:00",
       "magrib": "17:15",
       "magrib_jamat": "17:22",
       "isha": "18:45",
-      "isha_jamat": "18:55"
+      "isha_jamat": "19:00"
     },
     "2025-02-14": {
       "date": "2025-02-14",
@@ -671,11 +671,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:45",
       "asr_2": "15:25",
-      "asr_jamat": "14:55",
+      "asr_jamat": "15:00",
       "magrib": "17:17",
       "magrib_jamat": "17:24",
       "isha": "18:47",
-      "isha_jamat": "18:57"
+      "isha_jamat": "19:00"
     },
     "2025-02-15": {
       "date": "2025-02-15",
@@ -686,11 +686,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:46",
       "asr_2": "15:26",
-      "asr_jamat": "14:56",
+      "asr_jamat": "15:00",
       "magrib": "17:19",
       "magrib_jamat": "17:26",
       "isha": "18:49",
-      "isha_jamat": "18:59"
+      "isha_jamat": "19:00"
     },
     "2025-02-16": {
       "date": "2025-02-16",
@@ -701,11 +701,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:48",
       "asr_2": "15:28",
-      "asr_jamat": "14:58",
+      "asr_jamat": "15:00",
       "magrib": "17:21",
       "magrib_jamat": "17:28",
       "isha": "18:51",
-      "isha_jamat": "19:01"
+      "isha_jamat": "19:00"
     },
     "2025-02-17": {
       "date": "2025-02-17",
@@ -716,11 +716,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:49",
       "asr_2": "15:30",
-      "asr_jamat": "14:59",
+      "asr_jamat": "15:15",
       "magrib": "17:23",
       "magrib_jamat": "17:30",
       "isha": "18:52",
-      "isha_jamat": "19:02"
+      "isha_jamat": "19:15"
     },
     "2025-02-18": {
       "date": "2025-02-18",
@@ -731,11 +731,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:50",
       "asr_2": "15:31",
-      "asr_jamat": "15:00",
+      "asr_jamat": "15:15",
       "magrib": "17:25",
       "magrib_jamat": "17:32",
       "isha": "18:54",
-      "isha_jamat": "19:04"
+      "isha_jamat": "19:15"
     },
     "2025-02-19": {
       "date": "2025-02-19",
@@ -746,11 +746,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:52",
       "asr_2": "15:33",
-      "asr_jamat": "15:02",
+      "asr_jamat": "15:15",
       "magrib": "17:26",
       "magrib_jamat": "17:33",
       "isha": "18:55",
-      "isha_jamat": "19:05"
+      "isha_jamat": "19:15"
     },
     "2025-02-20": {
       "date": "2025-02-20",
@@ -761,11 +761,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:53",
       "asr_2": "15:35",
-      "asr_jamat": "15:03",
+      "asr_jamat": "15:15",
       "magrib": "17:28",
       "magrib_jamat": "17:35",
       "isha": "18:57",
-      "isha_jamat": "19:07"
+      "isha_jamat": "19:15"
     },
     "2025-02-21": {
       "date": "2025-02-21",
@@ -776,11 +776,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:54",
       "asr_2": "15:36",
-      "asr_jamat": "15:04",
+      "asr_jamat": "15:15",
       "magrib": "17:30",
       "magrib_jamat": "17:37",
       "isha": "18:58",
-      "isha_jamat": "19:08"
+      "isha_jamat": "19:15"
     },
     "2025-02-22": {
       "date": "2025-02-22",
@@ -791,11 +791,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:56",
       "asr_2": "15:38",
-      "asr_jamat": "15:06",
+      "asr_jamat": "15:15",
       "magrib": "17:32",
       "magrib_jamat": "17:39",
       "isha": "19:00",
-      "isha_jamat": "19:10"
+      "isha_jamat": "19:15"
     },
     "2025-02-23": {
       "date": "2025-02-23",
@@ -806,11 +806,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:57",
       "asr_2": "15:40",
-      "asr_jamat": "15:07",
+      "asr_jamat": "15:15",
       "magrib": "17:34",
       "magrib_jamat": "17:41",
       "isha": "19:02",
-      "isha_jamat": "19:12"
+      "isha_jamat": "19:15"
     },
     "2025-02-24": {
       "date": "2025-02-24",
@@ -821,11 +821,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:58",
       "asr_2": "15:41",
-      "asr_jamat": "15:08",
+      "asr_jamat": "15:30",
       "magrib": "17:35",
       "magrib_jamat": "17:42",
       "isha": "19:03",
-      "isha_jamat": "19:13"
+      "isha_jamat": "19:30"
     },
     "2025-02-25": {
       "date": "2025-02-25",
@@ -836,11 +836,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "15:00",
       "asr_2": "15:43",
-      "asr_jamat": "15:10",
+      "asr_jamat": "15:30",
       "magrib": "17:37",
       "magrib_jamat": "17:44",
       "isha": "19:04",
-      "isha_jamat": "19:14"
+      "isha_jamat": "19:30"
     },
     "2025-02-26": {
       "date": "2025-02-26",
@@ -851,11 +851,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "15:01",
       "asr_2": "15:44",
-      "asr_jamat": "15:11",
+      "asr_jamat": "15:30",
       "magrib": "17:39",
       "magrib_jamat": "17:46",
       "isha": "19:06",
-      "isha_jamat": "19:16"
+      "isha_jamat": "19:30"
     },
     "2025-02-27": {
       "date": "2025-02-27",
@@ -866,11 +866,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "15:02",
       "asr_2": "15:46",
-      "asr_jamat": "15:12",
+      "asr_jamat": "15:30",
       "magrib": "17:41",
       "magrib_jamat": "17:48",
       "isha": "19:08",
-      "isha_jamat": "19:18"
+      "isha_jamat": "19:30"
     },
     "2025-02-28": {
       "date": "2025-02-28",
@@ -881,11 +881,11 @@
       "dhuhr_jamat": "12:30",
       "asr": "15:04",
       "asr_2": "15:47",
-      "asr_jamat": "15:14",
+      "asr_jamat": "15:30",
       "magrib": "17:43",
       "magrib_jamat": "17:50",
       "isha": "19:10",
-      "isha_jamat": "19:20"
+      "isha_jamat": "19:30"
     },
     "2025-03-01": {
       "date": "2025-03-01",
