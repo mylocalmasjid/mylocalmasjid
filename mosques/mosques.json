@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-04T18:43:00.000Z",
+  "timestamp": "2025-01-04T20:41:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -780,10 +780,10 @@
     },
     {
       "ID": 21,
-      "Name": "West London Masjid",
-      "ShortName": "West London Masjid",
-      "FullName": "West London Islamic Centre and Jamia Masjid",
-      "Address": "Brownlow Road,\nWest Ealing,\nLondon,\nW13 OSQ",
+      "Name": "West London Islamic Centre",
+      "ShortName": "West London Islamic Centre",
+      "FullName": "West London Islamic Centre",
+      "Address": "Singapore Road,\nWest Ealing,\nLondon,\nW13 OSQ",
       "Details": "",
       "Website": "http://wliconline.org/",
       "Donate": "",
