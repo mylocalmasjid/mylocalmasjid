@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-04T20:41:00.000Z",
+  "timestamp": "2025-01-05T09:37:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -63,9 +63,9 @@
       "JumaaSummerTime1": "13:00",
       "JumaaSummerTime2": "14:00",
       "DefaultWinterTime1": "12:30",
-      "DefaultWinterTime2": "13:30",
+      "DefaultWinterTime2": "13:10",
       "DefaultSummerTime1": "13:30",
-      "DefaultSummerTime2": "14:30",
+      "DefaultSummerTime2": "14:10",
       "Hanafi": false,
       "IsFajrAllowed": true,
       "IsZohrAllowed": true,
