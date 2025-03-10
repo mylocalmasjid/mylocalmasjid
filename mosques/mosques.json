@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-10T09:20:00.000Z",
+  "timestamp": "2025-03-10T16:39:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -997,7 +997,7 @@
       "IsAsrAllowed": true,
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
-      "IsRemoteTimetableUpdateAllowed": false,
+      "IsRemoteTimetableUpdateAllowed": true,
       "Active": false
     },
     {
@@ -2033,7 +2033,7 @@
       "IsAsrAllowed": true,
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
-      "IsRemoteTimetableUpdateAllowed": false,
+      "IsRemoteTimetableUpdateAllowed": true,
       "Active": false
     },
     {
