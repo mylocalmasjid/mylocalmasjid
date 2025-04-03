@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-01T18:04:00.000Z",
+  "timestamp": "2025-04-03T17:53:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -311,7 +311,7 @@
       "ImageUrl": "almanaar_logo_2020_v3.png",
       "AlternateImageUrl": "prayertimesfilled.png",
       "DataLocation": "almanaar_mchc",
-      "SecondJumua": false,
+      "SecondJumua": true,
       "UseDefinedJumua": false,
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
@@ -322,9 +322,9 @@
       "JumaaSummerTime1": "13:00",
       "JumaaSummerTime2": "14:00",
       "DefaultWinterTime1": "12:15",
-      "DefaultWinterTime2": "12:15",
+      "DefaultWinterTime2": "13:15",
       "DefaultSummerTime1": "13:15",
-      "DefaultSummerTime2": "13:15",
+      "DefaultSummerTime2": "14:15",
       "Hanafi": false,
       "IsFajrAllowed": true,
       "IsZohrAllowed": true,
