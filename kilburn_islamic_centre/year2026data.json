@@ -1,6 +1,6 @@
 {
   "city": "london",
-  "timestamp": "2026-01-08T18:11:18.190Z",
+  "timestamp": "2026-02-01T10:34:09.835Z",
   "times": {
     "2026-01-01": {
       "date": "2026-01-01",
@@ -521,7 +521,7 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:30",
       "asr_2": "15:07",
-      "asr_jamat": "15:00",
+      "asr_jamat": "14:45",
       "magrib": "16:59",
       "magrib_jamat": "16:59",
       "isha": "18:33",
@@ -645,7 +645,7 @@
       "magrib": "17:13",
       "magrib_jamat": "17:13",
       "isha": "18:44",
-      "isha_jamat": "19:15"
+      "isha_jamat": "19:00"
     },
     "2026-02-13": {
       "date": "2026-02-13",
@@ -660,7 +660,7 @@
       "magrib": "17:15",
       "magrib_jamat": "17:15",
       "isha": "18:45",
-      "isha_jamat": "19:15"
+      "isha_jamat": "19:00"
     },
     "2026-02-14": {
       "date": "2026-02-14",
@@ -671,7 +671,7 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:44",
       "asr_2": "15:24",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:17",
       "magrib_jamat": "17:17",
       "isha": "18:47",
@@ -795,7 +795,7 @@
       "magrib": "17:31",
       "magrib_jamat": "17:31",
       "isha": "18:59",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-23": {
       "date": "2026-02-23",
@@ -836,7 +836,7 @@
       "dhuhr_jamat": "12:30",
       "asr": "14:59",
       "asr_2": "15:42",
-      "asr_jamat": "15:30",
+      "asr_jamat": "15:15",
       "magrib": "17:37",
       "magrib_jamat": "17:37",
       "isha": "19:04",
