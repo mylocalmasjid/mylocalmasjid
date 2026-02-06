@@ -1,6 +1,6 @@
 {
   "city": "london",
-  "timestamp": "2026-01-06T09:37:02.639Z",
+  "timestamp": "2026-02-06T17:01:23.919Z",
   "times": {
     "2026-01-01": {
       "date": "2026-01-01",
@@ -548,7 +548,7 @@
       "fajr_jamat": "06:11",
       "sunrise": "07:28",
       "dhuhr": "12:20",
-      "dhuhr_jamat": "13:00",
+      "dhuhr_jamat": "12:45",
       "asr": "14:33",
       "asr_2": "15:11",
       "asr_jamat": "14:45",
@@ -653,7 +653,7 @@
       "fajr_jamat": "05:58",
       "sunrise": "07:15",
       "dhuhr": "12:20",
-      "dhuhr_jamat": "13:00",
+      "dhuhr_jamat": "12:45",
       "asr": "14:43",
       "asr_2": "15:23",
       "asr_jamat": "15:00",
@@ -671,7 +671,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:44",
       "asr_2": "15:24",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:17",
       "magrib_jamat": "17:24",
       "isha": "18:47",
@@ -686,7 +686,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:46",
       "asr_2": "15:26",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:19",
       "magrib_jamat": "17:26",
       "isha": "18:49",
@@ -701,7 +701,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:47",
       "asr_2": "15:28",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:21",
       "magrib_jamat": "17:28",
       "isha": "18:51",
@@ -716,7 +716,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:49",
       "asr_2": "15:29",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:22",
       "magrib_jamat": "17:29",
       "isha": "18:51",
@@ -731,7 +731,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:50",
       "asr_2": "15:31",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:24",
       "magrib_jamat": "17:31",
       "isha": "18:53",
@@ -746,7 +746,7 @@
       "dhuhr_jamat": "12:45",
       "asr": "14:51",
       "asr_2": "15:33",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:26",
       "magrib_jamat": "17:33",
       "isha": "18:55",
@@ -758,10 +758,10 @@
       "fajr_jamat": "05:45",
       "sunrise": "07:02",
       "dhuhr": "12:19",
-      "dhuhr_jamat": "13:00",
+      "dhuhr_jamat": "12:45",
       "asr": "14:53",
       "asr_2": "15:34",
-      "asr_jamat": "15:15",
+      "asr_jamat": "15:00",
       "magrib": "17:28",
       "magrib_jamat": "17:35",
       "isha": "18:57",
@@ -780,7 +780,7 @@
       "magrib": "17:30",
       "magrib_jamat": "17:37",
       "isha": "18:58",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-22": {
       "date": "2026-02-22",
@@ -795,7 +795,7 @@
       "magrib": "17:31",
       "magrib_jamat": "17:38",
       "isha": "18:59",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-23": {
       "date": "2026-02-23",
@@ -810,7 +810,7 @@
       "magrib": "17:33",
       "magrib_jamat": "17:40",
       "isha": "19:01",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-24": {
       "date": "2026-02-24",
@@ -825,7 +825,7 @@
       "magrib": "17:35",
       "magrib_jamat": "17:42",
       "isha": "19:03",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-25": {
       "date": "2026-02-25",
@@ -840,7 +840,7 @@
       "magrib": "17:37",
       "magrib_jamat": "17:44",
       "isha": "19:04",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-26": {
       "date": "2026-02-26",
@@ -855,7 +855,7 @@
       "magrib": "17:39",
       "magrib_jamat": "17:46",
       "isha": "19:06",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-27": {
       "date": "2026-02-27",
@@ -863,14 +863,14 @@
       "fajr_jamat": "05:30",
       "sunrise": "06:47",
       "dhuhr": "12:18",
-      "dhuhr_jamat": "13:00",
+      "dhuhr_jamat": "12:45",
       "asr": "15:02",
       "asr_2": "15:46",
       "asr_jamat": "15:15",
       "magrib": "17:40",
       "magrib_jamat": "17:47",
       "isha": "19:07",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-28": {
       "date": "2026-02-28",
@@ -885,7 +885,7 @@
       "magrib": "17:42",
       "magrib_jamat": "17:49",
       "isha": "19:09",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-03-01": {
       "date": "2026-03-01",
