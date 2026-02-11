@@ -1,6 +1,6 @@
 {
   "city": "london",
-  "timestamp": "2026-01-01T19:35:00.000Z",
+  "timestamp": "2026-02-11T20:34:52.148Z",
   "times": {
     "2026-01-01": {
       "date": "2026-01-01",
@@ -660,7 +660,7 @@
       "magrib": "17:15",
       "magrib_jamat": "17:20",
       "isha": "18:45",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-14": {
       "date": "2026-02-14",
@@ -675,7 +675,7 @@
       "magrib": "17:17",
       "magrib_jamat": "17:22",
       "isha": "18:47",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-15": {
       "date": "2026-02-15",
@@ -690,7 +690,7 @@
       "magrib": "17:19",
       "magrib_jamat": "17:24",
       "isha": "18:49",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-16": {
       "date": "2026-02-16",
@@ -705,7 +705,7 @@
       "magrib": "17:21",
       "magrib_jamat": "17:26",
       "isha": "18:51",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-17": {
       "date": "2026-02-17",
@@ -720,12 +720,12 @@
       "magrib": "17:22",
       "magrib_jamat": "17:27",
       "isha": "18:51",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-18": {
       "date": "2026-02-18",
       "fajr": "05:29",
-      "fajr_jamat": "06:00",
+      "fajr_jamat": "05:49",
       "sunrise": "07:06",
       "dhuhr": "12:20",
       "dhuhr_jamat": "12:30",
@@ -735,12 +735,12 @@
       "magrib": "17:24",
       "magrib_jamat": "17:29",
       "isha": "18:53",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-19": {
       "date": "2026-02-19",
       "fajr": "05:27",
-      "fajr_jamat": "06:00",
+      "fajr_jamat": "05:47",
       "sunrise": "07:04",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -750,7 +750,7 @@
       "magrib": "17:26",
       "magrib_jamat": "17:31",
       "isha": "18:55",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-20": {
       "date": "2026-02-20",
@@ -765,12 +765,12 @@
       "magrib": "17:28",
       "magrib_jamat": "17:33",
       "isha": "18:57",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-21": {
       "date": "2026-02-21",
       "fajr": "05:23",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:43",
       "sunrise": "07:00",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -780,12 +780,12 @@
       "magrib": "17:30",
       "magrib_jamat": "17:35",
       "isha": "18:58",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-22": {
       "date": "2026-02-22",
       "fajr": "05:21",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:41",
       "sunrise": "06:58",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -795,12 +795,12 @@
       "magrib": "17:31",
       "magrib_jamat": "17:36",
       "isha": "18:59",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-23": {
       "date": "2026-02-23",
       "fajr": "05:19",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:39",
       "sunrise": "06:56",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -810,12 +810,12 @@
       "magrib": "17:33",
       "magrib_jamat": "17:38",
       "isha": "19:01",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-24": {
       "date": "2026-02-24",
       "fajr": "05:17",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:37",
       "sunrise": "06:54",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -825,12 +825,12 @@
       "magrib": "17:35",
       "magrib_jamat": "17:40",
       "isha": "19:03",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-25": {
       "date": "2026-02-25",
       "fajr": "05:14",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:34",
       "sunrise": "06:51",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -840,12 +840,12 @@
       "magrib": "17:37",
       "magrib_jamat": "17:42",
       "isha": "19:04",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-26": {
       "date": "2026-02-26",
       "fajr": "05:12",
-      "fajr_jamat": "05:45",
+      "fajr_jamat": "05:32",
       "sunrise": "06:49",
       "dhuhr": "12:19",
       "dhuhr_jamat": "12:30",
@@ -855,7 +855,7 @@
       "magrib": "17:39",
       "magrib_jamat": "17:44",
       "isha": "19:06",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:15"
     },
     "2026-02-27": {
       "date": "2026-02-27",
@@ -875,7 +875,7 @@
     "2026-02-28": {
       "date": "2026-02-28",
       "fajr": "05:08",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:28",
       "sunrise": "06:45",
       "dhuhr": "12:18",
       "dhuhr_jamat": "12:30",
@@ -890,7 +890,7 @@
     "2026-03-01": {
       "date": "2026-03-01",
       "fajr": "05:06",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:26",
       "sunrise": "06:43",
       "dhuhr": "12:18",
       "dhuhr_jamat": "12:30",
@@ -905,7 +905,7 @@
     "2026-03-02": {
       "date": "2026-03-02",
       "fajr": "05:04",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:24",
       "sunrise": "06:41",
       "dhuhr": "12:18",
       "dhuhr_jamat": "12:30",
@@ -920,7 +920,7 @@
     "2026-03-03": {
       "date": "2026-03-03",
       "fajr": "05:02",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:22",
       "sunrise": "06:39",
       "dhuhr": "12:18",
       "dhuhr_jamat": "12:30",
@@ -935,7 +935,7 @@
     "2026-03-04": {
       "date": "2026-03-04",
       "fajr": "04:59",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:19",
       "sunrise": "06:36",
       "dhuhr": "12:17",
       "dhuhr_jamat": "12:30",
@@ -950,7 +950,7 @@
     "2026-03-05": {
       "date": "2026-03-05",
       "fajr": "04:57",
-      "fajr_jamat": "05:30",
+      "fajr_jamat": "05:17",
       "sunrise": "06:34",
       "dhuhr": "12:17",
       "dhuhr_jamat": "12:30",
@@ -975,12 +975,12 @@
       "magrib": "17:53",
       "magrib_jamat": "17:58",
       "isha": "19:17",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-07": {
       "date": "2026-03-07",
       "fajr": "04:53",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:13",
       "sunrise": "06:30",
       "dhuhr": "12:17",
       "dhuhr_jamat": "12:30",
@@ -990,12 +990,12 @@
       "magrib": "17:54",
       "magrib_jamat": "17:59",
       "isha": "19:17",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-08": {
       "date": "2026-03-08",
       "fajr": "04:51",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:11",
       "sunrise": "06:28",
       "dhuhr": "12:16",
       "dhuhr_jamat": "12:30",
@@ -1005,12 +1005,12 @@
       "magrib": "17:56",
       "magrib_jamat": "18:01",
       "isha": "19:19",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-09": {
       "date": "2026-03-09",
       "fajr": "04:48",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:08",
       "sunrise": "06:25",
       "dhuhr": "12:16",
       "dhuhr_jamat": "12:30",
@@ -1020,12 +1020,12 @@
       "magrib": "17:58",
       "magrib_jamat": "18:03",
       "isha": "19:20",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-10": {
       "date": "2026-03-10",
       "fajr": "04:46",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:06",
       "sunrise": "06:23",
       "dhuhr": "12:16",
       "dhuhr_jamat": "12:30",
@@ -1035,12 +1035,12 @@
       "magrib": "18:00",
       "magrib_jamat": "18:05",
       "isha": "19:22",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-11": {
       "date": "2026-03-11",
       "fajr": "04:44",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:04",
       "sunrise": "06:21",
       "dhuhr": "12:16",
       "dhuhr_jamat": "12:30",
@@ -1050,12 +1050,12 @@
       "magrib": "18:01",
       "magrib_jamat": "18:06",
       "isha": "19:23",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-12": {
       "date": "2026-03-12",
       "fajr": "04:42",
-      "fajr_jamat": "05:15",
+      "fajr_jamat": "05:02",
       "sunrise": "06:19",
       "dhuhr": "12:15",
       "dhuhr_jamat": "12:30",
@@ -1065,12 +1065,12 @@
       "magrib": "18:03",
       "magrib_jamat": "18:08",
       "isha": "19:25",
-      "isha_jamat": "19:30"
+      "isha_jamat": "19:45"
     },
     "2026-03-13": {
       "date": "2026-03-13",
       "fajr": "04:39",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:59",
       "sunrise": "06:16",
       "dhuhr": "12:15",
       "dhuhr_jamat": "12:30",
@@ -1085,7 +1085,7 @@
     "2026-03-14": {
       "date": "2026-03-14",
       "fajr": "04:37",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:57",
       "sunrise": "06:14",
       "dhuhr": "12:15",
       "dhuhr_jamat": "12:30",
@@ -1100,7 +1100,7 @@
     "2026-03-15": {
       "date": "2026-03-15",
       "fajr": "04:35",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:55",
       "sunrise": "06:12",
       "dhuhr": "12:15",
       "dhuhr_jamat": "12:30",
@@ -1115,7 +1115,7 @@
     "2026-03-16": {
       "date": "2026-03-16",
       "fajr": "04:33",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:53",
       "sunrise": "06:10",
       "dhuhr": "12:14",
       "dhuhr_jamat": "12:30",
@@ -1130,7 +1130,7 @@
     "2026-03-17": {
       "date": "2026-03-17",
       "fajr": "04:30",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:50",
       "sunrise": "06:07",
       "dhuhr": "12:14",
       "dhuhr_jamat": "12:30",
@@ -1145,7 +1145,7 @@
     "2026-03-18": {
       "date": "2026-03-18",
       "fajr": "04:28",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:48",
       "sunrise": "06:05",
       "dhuhr": "12:14",
       "dhuhr_jamat": "12:30",
@@ -1160,7 +1160,7 @@
     "2026-03-19": {
       "date": "2026-03-19",
       "fajr": "04:26",
-      "fajr_jamat": "05:00",
+      "fajr_jamat": "04:46",
       "sunrise": "06:03",
       "dhuhr": "12:13",
       "dhuhr_jamat": "12:30",
