@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-18T09:43:00.000Z",
+  "timestamp": "2026-02-23T19:02:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -3753,7 +3753,7 @@
       "DefaultWinterTime2": "12:25",
       "DefaultSummerTime1": "13:25",
       "DefaultSummerTime2": "13:25",
-      "Hanafi": true,
+      "Hanafi": false,
       "IsFajrAllowed": true,
       "IsZohrAllowed": true,
       "IsAsrAllowed": true,
