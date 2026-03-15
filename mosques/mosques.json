@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T13:17:40.380Z",
+  "timestamp": "2026-03-15T14:06:40.380Z",
   "mosques": [
     {
       "ID": 0,
@@ -2740,7 +2740,7 @@
       "ImageUrl": "prayertimesfilled.png",
       "AlternateImageUrl": "prayertimesfilled.png",
       "DataLocation": "wandsworth_muslim_centre",
-      "SecondJumua": false,
+      "SecondJumua": true,
       "UseDefinedJumua": true,
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
