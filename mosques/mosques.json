@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T17:36:40.380Z",
+  "timestamp": "2026-03-30T13:52:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -3533,8 +3533,8 @@
       "DefaultSummerTime2": "13:30",
       "Hanafi": false,
       "IsFajrAllowed": true,
-      "IsZohrAllowed": false,
-      "IsAsrAllowed": false,
+      "IsZohrAllowed": true,
+      "IsAsrAllowed": true,
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
