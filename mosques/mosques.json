@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T18:30:00.000Z",
+  "timestamp": "2026-07-05T19:04:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -3884,8 +3884,8 @@
       "Donate": "",
       "Latitude": 51.589158977774574,
       "Longitude": -0.332148183707572,
-      "ImageUrl": "harrow_central_mosque.png",
-      "AlternateImageUrl": "harrow_central_mosque.png",
+      "ImageUrl": "https://harrowmosque.org.uk/",
+      "AlternateImageUrl": "prayertimesfilled.png",
       "DataLocation": "harrow_central_mosque",
       "SecondJumua": false,
       "UseDefinedJumua": true,
