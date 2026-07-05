@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T19:04:00.000Z",
+  "timestamp": "2026-07-05T19:15:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -3880,11 +3880,11 @@
       "FullName": "Harrow Central Mosque",
       "Address": "34 Station Road,\nHarrow,\nLondon,\nHA1 2SQ",
       "Details": "",
-      "Website": "",
+      "Website": "https://harrowmosque.org.uk/",
       "Donate": "",
       "Latitude": 51.589158977774574,
       "Longitude": -0.332148183707572,
-      "ImageUrl": "https://harrowmosque.org.uk/",
+      "ImageUrl": "harrow_central_mosque.png",
       "AlternateImageUrl": "prayertimesfilled.png",
       "DataLocation": "harrow_central_mosque",
       "SecondJumua": false,
