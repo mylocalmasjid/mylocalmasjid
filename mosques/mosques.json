@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T19:15:00.000Z",
+  "timestamp": "2026-07-14T12:16:00.000Z",
   "mosques": [
     {
       "ID": 0,
@@ -3855,7 +3855,7 @@
       "AllowJumuaStartBeforeAthan": true,
       "AutoAdjustSecondJumaaTimeToHour": false,
       "UseTimetableZohrAthanJumua": false,
-      "UseTimetableZohrIqamaJumua": true,
+      "UseTimetableZohrIqamaJumua": false,
       "JumaaWinterTime1": "12:15",
       "JumaaWinterTime2": "12:15",
       "JumaaSummerTime1": "13:15",
