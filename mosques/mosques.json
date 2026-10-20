@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T07:43:00.000Z",
+  "timestamp": "2026-10-20T11:54:10.800Z",
   "mosques": [
     {
       "ID": 0,
@@ -190,7 +190,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 5,
@@ -930,7 +930,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 25,
@@ -1485,7 +1485,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 40,
@@ -1602,7 +1602,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 43,
@@ -1824,7 +1824,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 49,
@@ -1861,7 +1861,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 50,
@@ -1935,7 +1935,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 52,
@@ -2009,7 +2009,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 54,
@@ -2243,7 +2243,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 60,
@@ -2391,7 +2391,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 64,
@@ -2539,7 +2539,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 68,
@@ -2724,7 +2724,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 73,
@@ -2946,7 +2946,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 79,
@@ -3205,7 +3205,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 86,
@@ -3242,7 +3242,7 @@
       "IsMaghribAllowed": true,
       "IsIshaAllowed": true,
       "IsRemoteTimetableUpdateAllowed": true,
-      "Active": true
+      "Active": false
     },
     {
       "ID": 87,
