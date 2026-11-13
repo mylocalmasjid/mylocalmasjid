@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T11:54:10.800Z",
+  "timestamp": "2026-11-13T20:00:10.800Z",
   "mosques": [
     {
       "ID": 0,
@@ -1489,9 +1489,9 @@
     },
     {
       "ID": 40,
-      "Name": "Fine Islamic Centre",
-      "ShortName": "Fine Islamic Centre",
-      "FullName": "Fine Islamic Centre",
+      "Name": "Al-Maqari Al-Qur'aniyyah UK",
+      "ShortName": "Al-Maqari Al-Qur'aniyyah UK",
+      "FullName": "Al-Maqari Al-Qur'aniyyah UK",
       "Address": "95 Bloemfontein Rd,\nLondon,\nW12 7DA",
       "Details": "",
       "Website": "https://www.fic.org.uk/",
